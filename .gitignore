@@ -1,0 +1,10 @@
+
+# Mac OS
+.DS_Store
+
+# build cache
+/build
+
+# work space
+*.sublime-workspace
+go.work
